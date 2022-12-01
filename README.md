@@ -1,2 +1,4 @@
-# large-file-storage
-a place to store large files for eg. checkpoints
+# Public Large File Storage
+A place to store large files like checkpoints and make it available publicly.
+
+
